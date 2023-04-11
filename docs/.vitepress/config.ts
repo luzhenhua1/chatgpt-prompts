@@ -78,10 +78,7 @@ export default defineConfig({
     sidebarMenuLabel: '菜单',
     darkModeSwitchLabel: '深色模式',
 
-    editLink: {
-        pattern: 'https://github.com/jevantang/chatgpt-prompts/blob/main/docs/:path',
-        text: '为此页贡献新提示语'
-    },
+
 
     lastUpdatedText: '最后一次更新',
 
@@ -91,8 +88,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'twitter', link: 'https://twitter.com/JevanTang' },
-      { icon: 'github', link: 'https://github.com/jevantang/chatgpt-prompts' }
+      { icon: 'QQ', link: 'https://twitter.com/JevanTang' },
     ]
   }
 })
